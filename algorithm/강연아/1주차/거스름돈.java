@@ -22,8 +22,6 @@ public class BackJoon {
             System.out.println("count=" +count+ ", n=" +n);
 
         }
-
-
     }
 }
 
